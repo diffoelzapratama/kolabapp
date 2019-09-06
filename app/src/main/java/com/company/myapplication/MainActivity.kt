@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //TODO 1 : tambahkan activity
+        //JANCUK
     }
 }
